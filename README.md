@@ -1,5 +1,5 @@
 # Happy Hacktoberfest 😊
-### Looking for free tee but feel like cheating 😕 ?
+### Looking for free tee but feel like cheating about not actually contributing 😕 ?
 
 Instead of ~~just adding your name to README~~ lets share a little story about why you love coding, languages you love, languages you hate, current project that you are working on and *if you would like to connect with/help people with same interest.*    
 
