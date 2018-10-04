@@ -5,3 +5,6 @@ Instead of ~~just adding your name to README~~ lets share a little story about w
 
 
 **_You in?_**
+
+##Example: 
+(add yours in myStory folder)
