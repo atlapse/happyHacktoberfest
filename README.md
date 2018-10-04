@@ -6,7 +6,7 @@ Instead of ~~just adding your name to README~~ lets share a little story about w
 
 **_You in?_**
 
-#### Example:#### _(add yours in myStory folder)_    
+#### Example:  _(add yours in myStory folder)_    
  - they call me :    
  - love to code because :    
  - languages i speak better than my mothertongue :    
