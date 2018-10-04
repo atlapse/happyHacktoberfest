@@ -4,7 +4,7 @@
 Instead of ~~just adding your name to README~~ lets share a little story about why you love coding, languages you love, languages you hate, current project that you are working on and *if you would like to connect with/help people with same interest.*    
 
 
-**_You in?🤔_**
+**_You in?_ 🤔**
 
 #### Example:  _(add yours in myStory folder)_    
  - they call me :    
