@@ -1,6 +1,6 @@
 # Happy Hacktoberfest 😊
 
-[What is Hacktoberfest] (https://hacktoberfest.digitalocean.com) 
+[What is Hacktoberfest](https://hacktoberfest.digitalocean.com) 
 
 ### Looking for free tee but feel like cheating about not actually contributing 😕 ?
 
