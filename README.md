@@ -1,5 +1,5 @@
 # Happy Hacktoberfest 😊    
-### fork -> add changes -> create pull request
+### fork 👉🏻 add changes 👉🏻 create pull request
 
 [What is Hacktoberfest](https://hacktoberfest.digitalocean.com) 
 
